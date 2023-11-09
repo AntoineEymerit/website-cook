@@ -11,7 +11,7 @@ blurb:
 
     Issu d'une famille Périgourdine, la gourmandise à été mon éducation. 
 
-    Des plats régressifs de ma grand mère aux premières connaissances de vin de mon grand père, mes parents tous deux gourmets non pu que continué de me mettre dans cette voie.
+    Des plats régressifs de ma grand mère aux premières connaissances de vin de mon grand père, mes parents tous deux gourmets n'ont pu que continuer de me mettre dans cette voie.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
