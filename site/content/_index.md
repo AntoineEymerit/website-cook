@@ -11,7 +11,7 @@ blurb:
 
     Issu d'une famille Périgourdine, la gourmandise à été mon éducation. 
 
-    Des plats régressifs de ma grand mère aux premières connaissances de vin de mon grand père, mes parents tous deux gourmets n'ont pu que continuer de me mettre dans cette voie.
+    Des plats régressifs de ma grand mère aux premières connaissances de vin de mon grand père, mes parents tous deux gourmets n'ont pu que continuer de me mettre dans cette voie. J'ai aujourd'hui la joie de retrouver la maison au travail.
 intro:
   heading: Un forfait tout compris
   text: Ca comprend quoi?
@@ -21,14 +21,11 @@ products:
       Les denrées, sans elles, qui sommes nous? 
   - image: img/lauza.png
     text: Les horaires de travail sur place et en amont. Parce qu'on ne fait pas une
-      préparation, une découpe un jus en 1h de temps.
+      préparation, une découpe, un jus en 1h de temps.
   - image: img/blog-chemex.jpg
     text: Un nettoyage, afin que vous puissiez prendre votre café le lendemain sans
       penser à rien.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Mes valeurs, ma cuisine
+  text: .
 ---
