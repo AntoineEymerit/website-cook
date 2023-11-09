@@ -13,9 +13,8 @@ blurb:
 
     Des plats régressifs de ma grand mère aux premières connaissances de vin de mon grand père, mes parents tous deux gourmets n'ont pu que continuer de me mettre dans cette voie.
 intro:
-  heading: "Qu'elle est offre proposée? "
-  text: Dans le forfait tout est compris* les denrées, le travail sur place et en
-    amont, le nettoyage.
+  heading: Un forfait tout compris
+  text: Ca comprend quoi?
 products:
   - image: img/aubergine.jpg
     text: |
@@ -23,6 +22,9 @@ products:
   - image: img/lauza.png
     text: Les horaires de travail sur place et en amont. Parce qu'on ne fait pas une
       préparation, une découpe un jus en 1h de temps.
+  - image: img/blog-chemex.jpg
+    text: Un nettoyage, afin que vous puissiez prendre votre café le lendemain sans
+      penser à rien.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
