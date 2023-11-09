@@ -16,9 +16,9 @@ intro:
   heading: Un forfait tout compris
   text: Ca comprend quoi?
 products:
-  - image: img/aubergine.jpg
+  - image: img/oeuf.gif
     text: |
-      Les denrées, sans elles, qui nous sommes? 
+      Les denrées, sans elles, qui sommes nous? 
   - image: img/lauza.png
     text: Les horaires de travail sur place et en amont. Parce qu'on ne fait pas une
       préparation, une découpe un jus en 1h de temps.
