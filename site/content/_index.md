@@ -1,7 +1,7 @@
 ---
 title: Le restaurant sans inconvénients
 subtitle: Une cuisine de chef à la maison
-image: img/truffe.jpg
+image: img/2020122.jpg
 blurb:
   heading: Qui suis-je?
   text: >-
