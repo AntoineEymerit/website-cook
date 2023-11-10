@@ -1,7 +1,7 @@
 ---
 title: Le restaurant sans inconvénients
 subtitle: Une cuisine de chef à la maison
-image: img/p.jpg
+image: img/img_6914~3.jpg
 blurb:
   heading: Qui suis-je?
   text: >-
@@ -24,7 +24,7 @@ products:
       Les denrées, sans elles, qui sommes nous? 
   - image: img/blog-chemex.jpg
     text: Un nettoyage, afin que vous puissiez prendre votre café le lendemain sans
-      penser à rien.
+      rien avoir à penser.
 values:
   heading: Mes valeurs, ma cuisine
   text: .
