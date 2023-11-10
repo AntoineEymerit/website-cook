@@ -1,7 +1,7 @@
 ---
 title: Le restaurant sans inconvénients
 subtitle: Une cuisine de chef à la maison
-image: img/2020122.jpg
+image: img/p.jpg
 blurb:
   heading: Qui suis-je?
   text: >-
@@ -19,7 +19,7 @@ products:
   - image: img/lauza.png
     text: Les horaires de travail sur place et en amont. Parce qu'on ne fait pas une
       préparation, une découpe, un jus en 1h de temps.
-  - image: img/oeuf.gif
+  - image: img/2020122.jpg
     text: |
       Les denrées, sans elles, qui sommes nous? 
   - image: img/blog-chemex.jpg
