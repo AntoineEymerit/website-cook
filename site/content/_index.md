@@ -9,6 +9,7 @@ blurb:
     gastronomiques de la région bordelaise, pour ensuite me rapprocher d'une
     chose, le produit. 
 
+
     Issu d'une famille Périgourdine, la gourmandise à été mon éducation. 
 
     Des plats régressifs de ma grand mère aux premières connaissances en vin de mon grand père, mes parents tous deux gourmets n'ont pu que continuer de m'indiquer cette voie. 
@@ -17,13 +18,13 @@ intro:
   text: Ca comprend quoi?
 products:
   - image: img/lauza.png
-    text: Les horaires de travail sur place et en amont. Parce qu'on ne fait pas une
+    text: Les **horaires** de travail sur place et en amont. Parce qu'on ne fait pas une
       préparation, une découpe, un jus en 1h de temps.
   - image: img/2020122.jpg
     text: |
-      Les denrées, sans elles, qui sommes nous? 
+      Les **denrées**, sans elles, qui sommes nous? 
   - image: img/blog-chemex.jpg
-    text: Un nettoyage, afin que vous puissiez prendre votre café le lendemain sans
+    text: Un **nettoyage**, afin que vous puissiez prendre votre café le lendemain sans
       rien avoir à penser.
 values:
   heading: Mes valeurs, ma cuisine
