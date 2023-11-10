@@ -11,7 +11,7 @@ blurb:
 
     Issu d'une famille Périgourdine, la gourmandise à été mon éducation. 
 
-    Des plats régressifs de ma grand mère aux premières connaissances de vin de mon grand père, mes parents tous deux gourmets n'ont pu que continuer de me mettre dans cette voie. J'ai aujourd'hui la joie de retrouver la maison au travail.
+    Des plats régressifs de ma grand mère aux premières connaissances en vin de mon grand père, mes parents tous deux gourmets n'ont pu que continuer de m'indiquer cette voie. 
 intro:
   heading: Un forfait tout compris
   text: Ca comprend quoi?
